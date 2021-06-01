@@ -16,8 +16,8 @@
 - <img src="https://media.giphy.com/media/FMDuoP9ZefU9Xg4P6j/giphy.gif" width="25" />&nbsp;&nbsp; I like making **Custom Keyboards**. <br>
 - <img src="https://media.giphy.com/media/XZtTVhwfgY6DxCPsvh/giphy.gif" width="25" />&nbsp;&nbsp; Ask me about **Keyboards, KPop, or anything!**<br>
 - <img src="https://media.giphy.com/media/n9wqJ8gTR9lQnXTvf3/giphy.gif" width="25" /> &nbsp; Find me on Twitter: **[m̶i̶l̶l̶](https://twitter.com/millaizha)**<br>
-- <img src="https://media.giphy.com/media/rL0yRrsd5a5PSeUMe7/giphy.gif" width="25"/> &nbsp; Hit me up on Discord!: **.ㅎ#8526**<br>
-- <img src="https://media.giphy.com/media/PcCh9x9Pz5d2CriuMQ/giphy.gif" width="25" />&nbsp;&nbsp;&nbsp;Did you know? There are no muscles in your fingers.<br>
+- <img src="https://media.giphy.com/media/rL0yRrsd5a5PSeUMe7/giphy.gif" width="25"/> &nbsp; Hit me up on Discord: **[.ㅎ#8526](https://discordapp.com/users/528574944984956958)**<br>
+- <img src="https://media.giphy.com/media/PcCh9x9Pz5d2CriuMQ/giphy.gif" width="25" />&nbsp;&nbsp;&nbsp;Did you know? There are **no muscles in your fingers.**<br>
 
 <div align="center">
   
