@@ -4,7 +4,7 @@
 #### Hello
 <img src="https://media.giphy.com/media/AonfFxjfQVAU8/giphy.gif" alt="Asuna-chan"  width="800"/> </a>  
  
-#### Philipine High School Senior
+#### High School Senior in the Philippines
 
 ![](https://komarev.com/ghpvc/?username=millaizha&style=flat&color=blue&label=PROFILE+VIEWS)
 
