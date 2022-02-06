@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://svg-banners.vercel.app/api?type=luminance&text1=millaizha&width=400&height=250" alt="millaizha"/> <br>
-#### Hello | Kamusta | 안녕
+#### Hello | Kamusta | Bonjour | 안녕
 <img src=keyboard.gif width="400"/> </a>  
  
 #### High School Senior in the Philippines
