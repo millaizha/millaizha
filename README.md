@@ -2,7 +2,7 @@
 
 <img src="https://svg-banners.vercel.app/api?type=luminance&text1=millaizha&width=400&height=250" alt="millaizha"/> <br>
 #### Hello | Kamusta | Bonjour | 안녕
-<img src=keyboard.gif width="400"/> </a>  
+<img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="400"/> </a>  
  
 #### High School Senior in the Philippines
 
@@ -12,7 +12,7 @@
 
 <hr></hr>
 
--  <img alt="GIF" src="https://media.giphy.com/media/ee72vyhtNdl5rx63n3/giphy.gif" width="25" /> &nbsp; I’m currently learning **C** and **French**. <img width="13%" align="right" alt="Yuta" src="https://media.giphy.com/media/fVepKDtIcZYqV4gzSL/giphy.gif" /><br>
+-  <img alt="GIF" src="https://media.giphy.com/media/ee72vyhtNdl5rx63n3/giphy.gif" width="25" /> &nbsp; I’m currently learning **C** and **French**. <img width="420" align="right" alt="Yuta" src="https://media.giphy.com/media/fVepKDtIcZYqV4gzSL/giphy.gif" /><br>
 - <img src="https://media.giphy.com/media/FMDuoP9ZefU9Xg4P6j/giphy.gif" width="25" />&nbsp;&nbsp; I like making **Custom Keyboards**. <br>
 - <img src="https://media.giphy.com/media/XZtTVhwfgY6DxCPsvh/giphy.gif" width="25" />&nbsp;&nbsp; Ask me about **Keyboards, K-pop, or anything!**<br>
 - <img src="https://media.giphy.com/media/n9wqJ8gTR9lQnXTvf3/giphy.gif" width="25" /> &nbsp; Find me on Twitter: **[m̶i̶l̶l̶](https://twitter.com/millaizha)**<br>
