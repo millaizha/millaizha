@@ -4,7 +4,7 @@
 #### Hello | Kamusta | Bonjour | 안녕
 <img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="400"/> </a>  
  
-#### Incoming CS Freshman at the University of the Philippines Los Baños
+#### CS Freshman at the University of the Philippines Los Baños
 
 ![](https://komarev.com/ghpvc/?username=millaizha&style=flat&color=blue&label=PROFILE+VIEWS)
 
