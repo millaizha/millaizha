@@ -33,3 +33,13 @@
 <img src="https://media.giphy.com/media/bkfedFXLulc8c2ucCI/giphy.gif" width="13%" align ="right"/>
 
 [![Spotify](https://millaizha.vercel.app/api/spotify)](https://open.spotify.com/user/12186469358)
+
+<div align="center">
+
+<hr></hr>
+
+### Commits went nomnom'd
+
+![snake gif](https://github.com/millaizha/millaizha/blob/output/github-contribution-grid-snake.gif)
+
+</div>
