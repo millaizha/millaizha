@@ -12,7 +12,7 @@
 
 <hr></hr>
 
--  <img alt="GIF" src="https://media.giphy.com/media/ee72vyhtNdl5rx63n3/giphy.gif" width="25" /> &nbsp; I’m currently learning **Vim** and **French**. <img width="13%" align="right" alt="Yuta" src="https://media.giphy.com/media/fVepKDtIcZYqV4gzSL/giphy.gif" /><br>
+-  <img alt="GIF" src="https://media.giphy.com/media/ee72vyhtNdl5rx63n3/giphy.gif" width="25" /> &nbsp; I’m currently learning **Vim**. <img width="13%" align="right" alt="Yuta" src="https://media.giphy.com/media/fVepKDtIcZYqV4gzSL/giphy.gif" /><br>
 - <img src="https://media.giphy.com/media/FMDuoP9ZefU9Xg4P6j/giphy.gif" width="25" />&nbsp;&nbsp; I like making **Custom Keyboards**. <br>
 - <img src="https://media.giphy.com/media/XZtTVhwfgY6DxCPsvh/giphy.gif" width="25" />&nbsp;&nbsp; Ask me about **Keyboards, K-pop, or anything!**<br>
 - <img src="https://media.giphy.com/media/n9wqJ8gTR9lQnXTvf3/giphy.gif" width="25" /> &nbsp; Find me on Twitter: **[m̶i̶l̶l̶](https://twitter.com/millaizha)**<br>
