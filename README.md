@@ -30,10 +30,11 @@
 </div>
 
 <hr></hr>
-<img src="https://media.giphy.com/media/bkfedFXLulc8c2ucCI/giphy.gif" width="50%" align ="right"/>
+<!---<img src="https://media.giphy.com/media/bkfedFXLulc8c2ucCI/giphy.gif" width="50%" align ="right"/>--->
 
 <!---[![Spotify](https://millaizha.vercel.app/api/spotify)](https://open.spotify.com/user/12186469358)--->
-
+<div align="center">
+ 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001571.d00c346674364b288a21a7f5cf156424.0616)](https://github.com/rayriffy/apple-music-github-profile)
 
 <div align="center">
