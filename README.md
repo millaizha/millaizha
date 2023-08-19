@@ -4,7 +4,7 @@
 #### Hello | Kamusta | Bonjour | 안녕
 <img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="400"/> </a>  
  
-#### CS Freshman at the University of the Philippines Los Baños
+#### CS Sophomore at the University of the Philippines Los Baños
 
 ![](https://komarev.com/ghpvc/?username=millaizha&style=flat&color=blue&label=PROFILE+VIEWS)
 
@@ -39,10 +39,8 @@
 
 <div align="center">
 
-<hr></hr>
+<!---### Commits went nomnom'd
 
-### Commits went nomnom'd
-
-![snake gif](https://github.com/millaizha/millaizha/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/millaizha/millaizha/blob/output/github-contribution-grid-snake.gif)--->
 
 </div>
