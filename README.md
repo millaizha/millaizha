@@ -35,7 +35,7 @@
 <!---[![Spotify](https://millaizha.vercel.app/api/spotify)](https://open.spotify.com/user/12186469358)--->
 <div align="center">
  
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001571.d00c346674364b288a21a7f5cf156424.0616)](https://github.com/rayriffy/apple-music-github-profile)
+[https://github-profile-apple-music.web.app/api/v1/users/6zLF3NFhmgpFNMjiF8Ew/recent/played/tracks?template=template_1_3](https://github-profile-apple-music.web.app/api/v1/users/6zLF3NFhmgpFNMjiF8Ew/recent/played/tracks?template=template_1_3)
 
 <div align="center">
 
