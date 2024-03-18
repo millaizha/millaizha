@@ -28,19 +28,7 @@
 </a>
 
 </div>
-
-<hr></hr>
-<!---<img src="https://media.giphy.com/media/bkfedFXLulc8c2ucCI/giphy.gif" width="50%" align ="right"/>--->
-
-<!---[![Spotify](https://millaizha.vercel.app/api/spotify)](https://open.spotify.com/user/12186469358)--->
-<div align="center">
  
-![https://github-profile-apple-music.web.app/api/v1/users/6zLF3NFhmgpFNMjiF8Ew/recent/played/tracks?template=template_1_3](https://github-profile-apple-music.web.app/api/v1/users/6zLF3NFhmgpFNMjiF8Ew/recent/played/tracks?template=template_1_3)
-
-<div align="center">
-
-<!---### Commits went nomnom'd
-
-![snake gif](https://github.com/millaizha/millaizha/blob/output/github-contribution-grid-snake.gif)--->
+<!---![https://github-profile-apple-music.web.app/api/v1/users/6zLF3NFhmgpFNMjiF8Ew/recent/played/tracks?template=template_1_3](https://github-profile-apple-music.web.app/api/v1/users/6zLF3NFhmgpFNMjiF8Ew/recent/played/tracks?template=template_1_3)--->
 
 </div>
