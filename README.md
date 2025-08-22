@@ -4,7 +4,7 @@
 #### Hello | Kamusta | Bonjour | 안녕
 <img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="400"/> </a>  
  
-#### CS Junior at the University of the Philippines Los Baños
+#### CS Senior at the University of the Philippines Los Baños
 
 ![](https://komarev.com/ghpvc/?username=millaizha&style=flat&color=blue&label=PROFILE+VIEWS)
 
@@ -12,7 +12,7 @@
 
 <hr></hr>
 
--  <img alt="GIF" src="https://media.giphy.com/media/ee72vyhtNdl5rx63n3/giphy.gif" width="25" /> &nbsp; I’m currently learning **Blockchain** (polygon). <img width="13%" align="right" alt="Yuta" src="https://media.giphy.com/media/fVepKDtIcZYqV4gzSL/giphy.gif" /><br>
+-  <img alt="GIF" src="https://media.giphy.com/media/ee72vyhtNdl5rx63n3/giphy.gif" width="25" /> &nbsp; I’m currently learning **OpenCV**. <img width="13%" align="right" alt="Yuta" src="https://media.giphy.com/media/fVepKDtIcZYqV4gzSL/giphy.gif" /><br>
 - <img src="https://media.giphy.com/media/FMDuoP9ZefU9Xg4P6j/giphy.gif" width="25" />&nbsp;&nbsp; I like making **Custom Keyboards**. <br>
 - <img src="https://media.giphy.com/media/XZtTVhwfgY6DxCPsvh/giphy.gif" width="25" />&nbsp;&nbsp; Ask me about **Keyboards, TripleS, or anything!**<br>
 - <img src="https://media.giphy.com/media/n9wqJ8gTR9lQnXTvf3/giphy.gif" width="25" /> &nbsp; Find me on Twitter: **[m̶i̶l̶l̶](https://twitter.com/millaizha)**<br>
